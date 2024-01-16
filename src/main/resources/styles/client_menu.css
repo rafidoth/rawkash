@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Roboto+Condensed:wght@400;500;600;700;800&display=swap");
+
+.client-menu {
+  -fx-background-color: #332941;
+}
+
+.client-profile-welcome Label {
+  -fx-text-fill: #ffffff;
+}
+
+
+.client-menu-button{
+  -fx-background-color: none;
+  -fx-text-fill: white;
+  -fx-cursor: hand;
+  -fx-border-style: solid, inside;
+  -fx-border-radius: 5;
+  -fx-border-color: #3B3486;
+}
+
+.client-menu-button:hover{
+  -fx-background-color: #3B3486;
+}
+
+
+.client-menu-button FontAwesomeIconView{
+  -fx-fill: white;
+}

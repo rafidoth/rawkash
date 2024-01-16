@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Roboto+Condensed:wght@400;500;600;700;800&display=swap');
+
+.login_container{
+    -fx-background-color: #332941;
+
+}
+
+.login_input_container{
+    -fx-spacing: 15;
+    -fx-font-family: 'Roboto Condensed', sans-serif;
+}
+
+.login_input_text_field{
+    -fx-background-color: none;
+    -fx-border-style: solid;
+    -fx-border-color:#ffffff12 ;
+    -fx-border-width: 0 0 1px 0;
+    -fx-text-fill: white;
+
+}
+
+.login_input_button{
+    -fx-border-style: none;
+    -fx-background-color: #864af9;
+}
+
